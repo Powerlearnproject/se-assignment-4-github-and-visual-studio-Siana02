@@ -182,4 +182,4 @@ Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
-Submit your completed assignment by [due date].
+Submit your completed assignment by [due date]
